@@ -16,5 +16,13 @@
 
 ## 🎨 Preview :
 
-<img align="left" width="48%" src="https://user-images.githubusercontent.com/82333673/160222659-d3500b9b-4b0e-4809-93eb-4a7d79a7fab2.jpeg"/>
-<img align="right" width="48%" src="https://user-images.githubusercontent.com/82333673/160222662-566eeb56-ed2e-4645-b615-a72b10429165.jpeg"/>
+<table style="width:100%">
+  <tr>
+    <td>
+  		 <img src="https://user-images.githubusercontent.com/82333673/160222659-d3500b9b-4b0e-4809-93eb-4a7d79a7fab2.jpeg">
+	  </td>
+    <td>
+  		 <img src="https://user-images.githubusercontent.com/82333673/160222662-566eeb56-ed2e-4645-b615-a72b10429165.jpeg">
+    </td>
+  </tr>
+</table>
