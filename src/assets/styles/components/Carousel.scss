@@ -1,0 +1,14 @@
+.carousel {
+  width: 100%;
+  overflow: auto;
+  &::-webkit-scrollbar{
+    appearance: none;
+  }
+  .carousel__container{
+    width: max-content;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding: 45px 60px 45px 0px;
+  }
+}

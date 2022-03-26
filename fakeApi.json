@@ -1,0 +1,164 @@
+{
+  "dataVideos": {
+    "trends": [
+      {
+        "id": 2,
+        "slug": "tvshow-2",
+        "title": "In the Dark",
+        "type": "Scripted",
+        "language": "English",
+        "year": 2009,
+        "contentRating": "16+",
+        "duration": 164,
+        "cover": "https://cdn.pixabay.com/photo/2022/01/17/19/59/dog-6945696__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648154025~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4906%2F5%2F149532716%2F455913337.mp4~hmac=09b9d1accd9d4613d97f89d7e4715ea570b8ccabb31b6372546700feb6a3e027/vimeo-prod-skyfire-std-us/01/4906/5/149532716/455913337.mp4?filename=Blue+-+1700.mp4"
+      },
+      {
+        "id": 3,
+        "slug": "tvshow-3",
+        "title": "Instinct",
+        "type": "Adventure",
+        "language": "English",
+        "year": 2002,
+        "contentRating": "16+",
+        "duration": 137,
+        "cover": "https://cdn.pixabay.com/photo/2016/02/18/20/02/seljalandsfoss-1207958__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648154714~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F624%2F26%2F653120370%2F2998034922.mp4~hmac=ea3b3bb451b28468c90cbe1d1342854a3d91890d580264b31338202e4ca59459/vimeo-prod-skyfire-std-us/01/624/26/653120370/2998034922.mp4?filename=Christmas+-+99607.mp4"
+      },
+      {
+        "id": 4,
+        "slug": "tvshow-4",
+        "title": "Grand Hotel",
+        "type": "Comedy",
+        "language": "English",
+        "year": 2014,
+        "contentRating": "16+",
+        "duration": 163,
+        "cover": "https://cdn.pixabay.com/photo/2022/03/01/20/58/peace-genius-7042013__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648154648~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3353%2F25%2F641767478%2F2942165549.mp4~hmac=39970da76fcae82fe555c0a314de51694be2ece0d981a1e3dbd067b914a15eca/vimeo-prod-skyfire-std-us/01/3353/25/641767478/2942165549.mp4?filename=Trees+-+93826.mp4"
+      },
+      {
+        "id": 5,
+        "slug": "tvshow-5",
+        "title": "Stargate Atlantis",
+        "type": "Scripted",
+        "language": "English",
+        "year": 2014,
+        "contentRating": "16+",
+        "duration": 194,
+        "cover": "https://cdn.pixabay.com/photo/2020/02/10/12/47/girl-4836394__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648313438~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1714%2F27%2F683573065%2F3152458588.mp4~hmac=c32f1ab8b9cc4635bed84078d1c1dbfbc232f41d9b7dac152544a72f4d99b9c1/vimeo-prod-skyfire-std-us/01/1714/27/683573065/3152458588.mp4"
+      },
+      {
+        "id": 6,
+        "slug": "tvshow-6",
+        "title": "Final Space",
+        "type": "Scripted",
+        "language": "English",
+        "year": 2017,
+        "contentRating": "16+",
+        "duration": 124,
+        "cover": "https://cdn.pixabay.com/photo/2022/01/13/14/02/mother-6935336__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648313456~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F834%2F25%2F629172467%2F2897777830.mp4~hmac=1f29ba2037ef9994533019617bf73aced749e6c2a2781ad8985e45f18920aa21/vimeo-prod-skyfire-std-us/01/834/25/629172467/2897777830.mp4"
+      },
+      {
+        "id": 7,
+        "slug": "tvshow-7",
+        "title": "The InBetween",
+        "type": "Drama",
+        "language": "English",
+        "year": 2011,
+        "contentRating": "16+",
+        "duration": 179,
+        "cover": "https://cdn.pixabay.com/photo/2020/07/08/04/12/work-5382501__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648154583~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3540%2F19%2F492700392%2F2218130317.mp4~hmac=70f2b2da97f7755a16c23e5e9f0c6f009da633aaa5b0fccf4508b1e55f64e8c9/vimeo-prod-skyfire-std-us/01/3540/19/492700392/2218130317.mp4?filename=Mountains+-+59291.mp4"
+      }
+    ],
+    "originals": [
+      {
+        "id": 8,
+        "slug": "tvshow-8",
+        "title": "Stargate Atlantis",
+        "type": "Action",
+        "language": "English",
+        "year": 2012,
+        "contentRating": "16+",
+        "duration": 148,
+        "cover": "https://cdn.pixabay.com/photo/2022/03/20/19/31/woman-7081699__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648154562~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2245%2F19%2F486227472%2F2178183118.mp4~hmac=39573e7697466bb6df53cbc38f806ad6582157596f342c6002e6bbf9ab99ec18/vimeo-prod-skyfire-std-us/01/2245/19/486227472/2178183118.mp4?filename=Sheep+-+57647.mp4"
+      },
+      {
+        "id": 9,
+        "slug": "tvshow-9",
+        "title": "Alien Highway",
+        "type": "Action",
+        "language": "English",
+        "year": 2019,
+        "contentRating": "16+",
+        "duration": 128,
+        "cover": "https://cdn.pixabay.com/photo/2021/12/13/14/57/trees-6868446__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648154533~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3123%2F20%2F515617562%2F2392231921.mp4~hmac=ef78ed656179971802603ada6f40eb7a7f20dfd8bade477a73ad38a647822a19/vimeo-prod-skyfire-std-us/01/3123/20/515617562/2392231921.mp4?filename=Highland+Cows+-+65903.mp4"
+      },
+      {
+        "id": 10,
+        "slug": "tvshow-10",
+        "title": "Elementary",
+        "type": "Animation",
+        "language": "English",
+        "year": 2011,
+        "contentRating": "16+",
+        "duration": 346,
+        "cover": "https://cdn.pixabay.com/photo/2021/08/31/11/58/woman-6588614__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648154508~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2775%2F21%2F538877060%2F2554448076.mp4~hmac=dc052ab8c30e20b1dbd64675100ea6d5b2e25b1cf312817ca107a6b07f1ecabd/vimeo-prod-skyfire-std-us/01/2775/21/538877060/2554448076.mp4?filename=Waves+-+70796.mp4"
+      },
+      {
+        "id": 11,
+        "slug": "tvshow-11",
+        "title": "Strange Angel",
+        "type": "War",
+        "language": "English",
+        "year": 2015,
+        "contentRating": "16+",
+        "duration": 226,
+        "cover": "https://cdn.pixabay.com/photo/2021/12/29/19/02/peter-6902548__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648154477~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4699%2F12%2F323496013%2F1259751202.mp4~hmac=b95147b416cd1785a7d043ca2cc91730cf0de0abac03c7a09b173d775da818ab/vimeo-prod-skyfire-std-us/01/4699/12/323496013/1259751202.mp4?filename=Seoul+-+21985.mp4"
+      },
+      {
+        "id": 12,
+        "slug": "tvshow-12",
+        "title": "Private Eyes",
+        "type": "Comedy",
+        "language": "English",
+        "year": 2018,
+        "contentRating": "16+",
+        "duration": 190,
+        "cover": "https://cdn.pixabay.com/photo/2022/03/21/12/27/camellia-7083090__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648313448~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4699%2F22%2F573496156%2F2709808404.mp4~hmac=1b9a45e1d6a590b8fa0b2bfec2bbe5e2be97a52c84d9d269b20cf46e9e976302/vimeo-prod-skyfire-std-us/01/4699/22/573496156/2709808404.mp4"
+      },
+      {
+        "id": 13,
+        "slug": "tvshow-13",
+        "title": "NCIS: Los Angeles",
+        "type": "Drama",
+        "language": "English",
+        "year": 2010,
+        "contentRating": "16+",
+        "duration": 160,
+        "cover": "https://cdn.pixabay.com/photo/2021/11/09/07/29/newborn-6780840__340.jpg",
+        "description": "Vestibulum ac est lacinia nisi venenatis tristique",
+        "source": "https://vod-progressive.akamaized.net/exp=1648154416~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2827%2F20%2F514139134%2F2381414012.mp4~hmac=33905b2e5a7b93204a2a3f4e04d8bc2cc6c781f94874c6fab496033db7b9d18c/vimeo-prod-skyfire-std-us/01/2827/20/514139134/2381414012.mp4?filename=Cat+-+65438.mp4"
+      }
+    ]
+  }
+}

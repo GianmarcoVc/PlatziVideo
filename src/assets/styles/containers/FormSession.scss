@@ -1,0 +1,81 @@
+.formSession {
+  display: grid;
+  place-content: center;
+  min-height: calc(100vh - 180px); /* El ancho será igual al tamaño de todo el height menos 200px (100px del header + 100px del footer) */
+  .formSession__container {
+    padding: 50px;
+    display: flex;
+    gap: 20px;
+    color: white;
+    border-radius: 40px;
+    flex-direction: column;
+    border: 2px solid white;
+    background-color: rgba(255,255,255,0.1);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.5);
+    .formSession__container--form {
+      gap: 10px;
+      display: flex;
+      font-size: 14px;
+      flex-direction: column;
+      .input, .button{
+        border: none;
+        outline: none;
+        padding: 10px;
+        font-size: 14px;
+        border-radius: 15px;
+      }
+      .formSession__container--remember-me {
+        gap: 10px;
+        display: flex;
+        margin: 5px 0px;
+        align-items: center;
+        .remember-checkbox{
+          width: 15px;
+          height: 15px;
+        }
+      }
+      .button{
+        color: white;
+        cursor: pointer;
+        font-weight: bold;
+        border-radius: 0;
+        background: #21c08b;
+        transition: 300ms all;
+        &:hover{
+          background: #19926a;
+        }
+      }
+      .formSession__container--reset-password {
+        color: white;
+        font-weight: bold;
+        text-align: right;
+      }
+    } 
+    .formSession__container--social-media div {
+      display: flex;
+      font-size: 14px;
+      margin: 5px auto;      
+      align-items: center;
+      width: max-content;
+      font-weight: 600;
+      img {
+        width: 30px;
+        margin-right: 10px;
+      }
+    }
+    .formSession__container--change-mode {
+      gap: 10px;
+      display: flex;
+      font-size: 14px;
+      align-items: center;
+      a {
+        color: white;
+        font-weight: bold;
+        text-decoration: none;
+        &:hover {
+          text-decoration: underline;
+        }  
+      }
+    }
+  }
+}

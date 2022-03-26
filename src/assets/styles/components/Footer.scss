@@ -1,0 +1,16 @@
+.footer {
+  width: 100%;
+  display: flex;
+  padding: 30px 0px;
+  align-items: center;
+  justify-content: flex-end;
+  a {
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    padding-right: 30px;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
